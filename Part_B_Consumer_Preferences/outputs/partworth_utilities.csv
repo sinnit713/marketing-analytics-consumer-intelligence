@@ -1,0 +1,11 @@
+"Attribute","Utility"
+"(Intercept)",2.37023150051047
+"PriceNumeric",9.64964155601171e-05
+"BrandSaturn",1.60421402647689
+"BrandToyota",1.43794870823156
+"BrandVolkswagen",1.14145229267144
+"Horsepower250",1.27928750477984
+"Horsepower280",-1.68337170397806
+"ColorGreen",-0.073568667231054
+"ColorRed",-0.755507702746321
+"SunroofYes",-3.09071607769165
