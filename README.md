@@ -7,6 +7,26 @@ An end-to-end marketing analytics project using R to investigate customer behavi
 
 This project addresses two distinct business scenarios through three analytical workstreams, applying marketing analytics techniques to generate insights that support customer targeting, product design and strategic decision-making.
 
+## Project Structure
+
+This repository is organised into three analytical workstreams:
+
+| Workstream | Focus | Details |
+|---|---|---|
+| Part A | Customer Segmentation & Targeting | [Explore Part A](./Part_A_Customer_Segmentation/) |
+| Part B | Consumer Preferences & Conjoint Analysis | [Explore Part B](./Part_B_Consumer_Preferences/) |
+| Part C | Competitive Positioning & PCA | [Explore Part C](./Part_C_Competitive_Positioning/) |
+
+### Additional Resources
+
+- [Complete R Script](./R/Marketing_Analytics_Complete.R)
+- [Part A: Outputs](./Part_A_Customer_Segmentation/outputs/)
+- [Part A: Visualisations](./Part_A_Customer_Segmentation/visualisations/)
+- [Part B: Outputs](./Part_B_Consumer_Preferences/outputs/)
+- [Part B: Visualisations](./Part_B_Consumer_Preferences/visualisations/)
+- [Part C: Outputs](./Part_C_Competitive_Positioning/outputs/)
+- [Part C: Visualisations](./Part_C_Competitive_Positioning/visualisations/)
+
 ### 1. Customer Segmentation and Targeting
 
 A UK-based online retailer scenario involving customer transaction and demographic data.
