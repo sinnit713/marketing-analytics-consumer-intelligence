@@ -78,7 +78,6 @@ An automotive market scenario examining relationships between vehicle characteri
 marketing-analytics-consumer-intelligence/
 │
 ├── Part_A_Customer_Segmentation/
-│   ├── R/
 │   ├── data/
 │   ├── outputs/
 │   └── visualisations/
@@ -95,6 +94,7 @@ marketing-analytics-consumer-intelligence/
 │   ├── outputs/
 │   └── visualisations/
 │
+├── | R/
 ├── README.md
 └── .gitignore
 ```
